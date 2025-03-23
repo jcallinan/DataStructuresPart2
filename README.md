@@ -1,5 +1,4 @@
-# DataStructuresPart2
-Data Structures examples in Vite, React, and Tailwind 
+# OOP 2025 Visualizer
 
 An educational React app to explore common data structures and algorithms with visual feedback.
 
