@@ -1,4 +1,4 @@
-# OOP 2025 Visualizer
+# OOP 2025 - Data Structure and Algorithms Visualizers
 
 An educational React app to explore common data structures and algorithms with visual feedback.
 
